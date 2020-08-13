@@ -1,4 +1,4 @@
-# Face and text detection in Newspaper unsing OpenCV and Pytesseract 
+# Face and text detection in Newspaper using OpenCV and Pytesseract 
 
 - Find the required packages for the project in requiements.txt
 - Follow this post(https://stackoverflow.com/questions/14684968/how-to-export-virtualenv)
